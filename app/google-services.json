@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354637569351",
+    "project_id": "benergy-46a48",
+    "storage_bucket": "benergy-46a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354637569351:android:76ab13ac67eb6bcec10062",
+        "android_client_info": {
+          "package_name": "com.example.benergy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354637569351-7t464u8l7es991dmi52jtjqpdeb7jsuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGOCGzAJvXWjAtkYrsSAw5UN02t_FGpFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354637569351-7t464u8l7es991dmi52jtjqpdeb7jsuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
